@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Faizan Ahmed Raza! 👋
 
-<!--
-**faizanahmedraza/faizanahmedraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm a full-stack developer.
+- 🌱 Currently focusing on AI & Software Architectures.
+- 💼 Working on MERN, MEVN, LEMP stacks.
+- 🌐 Open to remote opportunities.
+- 😄 Pronouns: He/Him/His
+- 📫 Reach me at faizanahmedraza3@gmail.com.
 
-Here are some ideas to get you started:
+## Let's Connect
+- LinkedIn: [Faizan Ahmed Raza](https://www.linkedin.com/in/faizan-ahmed-raza/)
+- Portfolio: [Faizan Ahmed Raza Portfolio](https://faizanahmedraza.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out! 😊
