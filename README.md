@@ -10,5 +10,6 @@
 ## Let's Connect
 - LinkedIn: [Faizan Ahmed Raza](https://www.linkedin.com/in/faizan-ahmed-raza/)
 - Portfolio: [Faizan Ahmed Raza Portfolio](https://faizanahmedraza.vercel.app/)
+- Medium: [Faizan Ahmed Raza](https://medium.com/@faizanahmedraza3)
 
 Feel free to reach out! 😊
