@@ -1,9 +1,9 @@
 # Hi, I'm Faizan Ahmed Raza! 👋
 
-- 🔭 Full-stack Developer specializing in MERN, MEVN, LEMP, .NET Core, and Entity Framework.
-- 🌱 Passionate about Data Science (Deep Learning) and AI (Computer Vision).
-- 🏗️ Committed to building robust software applications and architectures.
-- 💼 Open to remote opportunities and collaborative projects.
+- 🔭 **Software Engineer** at **BMW AG** | Full-stack Engineer, AI/ML, Autonomous Systems
+- 🌱 Building **Computer Vision**, **LLM Agents**, **ROS**, **PyTorch** solutions
+- 🏗️ **React | Python | C++ | JS | C# | Docker | Kubernetes** | Automotive + Cloud expertise
+- 💼 **Germany-based** | Open to **remote** work opportunities and collaborative projects.
 - 😄 Pronouns: He/Him/His
 - 📫 Reach me at faizanahmedraza3@gmail.com.
 
