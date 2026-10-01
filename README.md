@@ -5,7 +5,7 @@
 - 🏗️ **React | Python | C++ | JS | C# | Docker | Kubernetes** | Automotive + Cloud expertise
 - 💼 **Germany-based** | Open to **remote** work opportunities and collaborative projects.
 - 😄 Pronouns: He/Him/His
-- 📫 Reach me at faizanahmedraza3@gmail.com.
+- 📫 Reach me at faizanahmedraza3@gmail.com | faizanahmedraza.com
 
 ## Let's Connect
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
